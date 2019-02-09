@@ -30,7 +30,7 @@ rbeacon_single_test() ->
     ok = rbeacon:close(Service),
     ok = rbeacon:close(Client),
 
-    ok.
+    true.
 
 rbeacon_active_single_test() ->
     {ok, Service} = rbeacon:new(9999, [active, noecho]),
@@ -56,7 +56,7 @@ rbeacon_active_single_test() ->
         {rbeacon, Client, closed} -> ok
     end,
 
-    ok.
+    true.
 
 %%rbeacon_multi_test() ->
 %%    {ok, Node1} = rbeacon:new(5670),
