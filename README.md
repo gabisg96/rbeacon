@@ -2,8 +2,6 @@
 
 # rbeacon -  LAN discovery and presence. #
 
-https://travis-ci.org/gabisg96/rbeacon.svg?branch=master
-
 Copyright (c) 2014 Benoît Chesneau.
 
 __Version:__ 0.3.0
