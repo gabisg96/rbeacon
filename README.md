@@ -2,6 +2,8 @@
 
 # rbeacon -  LAN discovery and presence. #
 
+[![Build Status](https://travis-ci.org/gabisg96/rbeacon.svg?branch=master)](https://travis-ci.org/gabisg96/rbeacon) [![Coverage Status](https://coveralls.io/repos/github/gabisg96/rbeacon/badge.svg?branch=master)](https://coveralls.io/github/gabisg96/rbeacon?branch=master)
+
 Copyright (c) 2014 Benoît Chesneau.
 
 __Version:__ 0.3.0
