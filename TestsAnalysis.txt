@@ -1,0 +1,11 @@
+Pruebas:
+  -rbeacon_single_test:
+    •Dinámica: Requiere ejecutar la aplicación.
+    •Caja negra: No necesita de conocimiento del código.
+    •Positiva: Ejecuta código en condiciones normales.
+    •Funcional: Se ocupa de lo que el software debe hacer.
+  -rbeacon_active_single_test:
+    •Dinámica: Requiere ejecutar la aplicación.
+    •Caja negra: No necesita de conocimiento del código.
+    •Positiva: Ejecuta código en condiciones normales.
+    •Funcional: Se ocupa de lo que el software debe hacer.
